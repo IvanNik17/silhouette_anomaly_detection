@@ -20,7 +20,7 @@ Check out the requirements.txt file for more information. You will need to insta
 
 To train the model called **model_lstm_unet.py** you need to run **train_synth_sillhuette.py**, and in the script, change the directory to the processed synthetic data, as well as the directory where the model_checkpoints will be saved.
 
-![Loss](Images/lossTrain.PNG)
+![Loss](Images/lossTrain.png)
 
 ## Testing
 
