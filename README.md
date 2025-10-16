@@ -1,6 +1,9 @@
 # Silhouette Anomaly Detection
 A repository around the idea of using synthetic silhouettes generated from Unity of pedestrians for a train anomaly detection model
 
+![Visual](Images/teaser_segmentationPaper.png)
+
+
 ## Synthetic data generation
 Synthetic data is generated using the Unity game engine. To generate your own data clone the repository and open the Unity project. 
 
